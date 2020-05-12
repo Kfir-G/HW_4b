@@ -1,0 +1,9 @@
+C:\Users\kfirg\OneDrive - Ruppin Academic Center\מונחה עצמים C#\מטלות בית\מטלה 4 עד 20.5\HW_4b\HW_4b\obj\Debug\HW_4b.csprojAssemblyReference.cache
+C:\Users\kfirg\OneDrive - Ruppin Academic Center\מונחה עצמים C#\מטלות בית\מטלה 4 עד 20.5\HW_4b\HW_4b\obj\Debug\HW_4b.Form1.resources
+C:\Users\kfirg\OneDrive - Ruppin Academic Center\מונחה עצמים C#\מטלות בית\מטלה 4 עד 20.5\HW_4b\HW_4b\obj\Debug\HW_4b.Properties.Resources.resources
+C:\Users\kfirg\OneDrive - Ruppin Academic Center\מונחה עצמים C#\מטלות בית\מטלה 4 עד 20.5\HW_4b\HW_4b\obj\Debug\HW_4b.csproj.GenerateResource.cache
+C:\Users\kfirg\OneDrive - Ruppin Academic Center\מונחה עצמים C#\מטלות בית\מטלה 4 עד 20.5\HW_4b\HW_4b\bin\Debug\HW_4b.exe.config
+C:\Users\kfirg\OneDrive - Ruppin Academic Center\מונחה עצמים C#\מטלות בית\מטלה 4 עד 20.5\HW_4b\HW_4b\bin\Debug\HW_4b.exe
+C:\Users\kfirg\OneDrive - Ruppin Academic Center\מונחה עצמים C#\מטלות בית\מטלה 4 עד 20.5\HW_4b\HW_4b\bin\Debug\HW_4b.pdb
+C:\Users\kfirg\OneDrive - Ruppin Academic Center\מונחה עצמים C#\מטלות בית\מטלה 4 עד 20.5\HW_4b\HW_4b\obj\Debug\HW_4b.exe
+C:\Users\kfirg\OneDrive - Ruppin Academic Center\מונחה עצמים C#\מטלות בית\מטלה 4 עד 20.5\HW_4b\HW_4b\obj\Debug\HW_4b.pdb
