@@ -62,6 +62,7 @@
             this.lblQ5 = new System.Windows.Forms.Label();
             this.btnFinish = new System.Windows.Forms.Button();
             this.lblHead = new System.Windows.Forms.Label();
+            this.lblTime = new System.Windows.Forms.Label();
             ((System.ComponentModel.ISupportInitialize)(this.nmbbxQ3)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.picbxQ4)).BeginInit();
@@ -202,6 +203,7 @@
             this.rdbtnQ2A2.TabStop = true;
             this.rdbtnQ2A2.Text = "רוד";
             this.rdbtnQ2A2.UseVisualStyleBackColor = true;
+            this.rdbtnQ2A2.CheckedChanged += new System.EventHandler(this.rdbtnQ2A2_CheckedChanged);
             // 
             // rdbtnQ2A3
             // 
@@ -291,6 +293,7 @@
             this.btnPSV.TabIndex = 25;
             this.btnPSV.Text = "Philips Sport Vereniging";
             this.btnPSV.UseVisualStyleBackColor = true;
+            this.btnPSV.Click += new System.EventHandler(this.btnPSV_Click);
             // 
             // btnRotterdam
             // 
@@ -368,21 +371,32 @@
             this.btnFinish.TabIndex = 29;
             this.btnFinish.Text = "סיים!";
             this.btnFinish.UseVisualStyleBackColor = true;
+            this.btnFinish.Click += new System.EventHandler(this.btnFinish_Click);
             // 
             // lblHead
             // 
             this.lblHead.AutoSize = true;
-            this.lblHead.Location = new System.Drawing.Point(13, 21);
+            this.lblHead.Location = new System.Drawing.Point(13, 12);
             this.lblHead.Name = "lblHead";
             this.lblHead.Size = new System.Drawing.Size(99, 20);
             this.lblHead.TabIndex = 30;
             this.lblHead.Text = "נשאר לך עוד:";
             // 
+            // lblTime
+            // 
+            this.lblTime.AutoSize = true;
+            this.lblTime.Location = new System.Drawing.Point(116, 12);
+            this.lblTime.Name = "lblTime";
+            this.lblTime.Size = new System.Drawing.Size(18, 20);
+            this.lblTime.TabIndex = 31;
+            this.lblTime.Text = "0";
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 20F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(1213, 635);
+            this.ClientSize = new System.Drawing.Size(1215, 653);
+            this.Controls.Add(this.lblTime);
             this.Controls.Add(this.lblHead);
             this.Controls.Add(this.btnFinish);
             this.Controls.Add(this.lblQ5);
@@ -464,6 +478,7 @@
         private System.Windows.Forms.Label lblQ5;
         private System.Windows.Forms.Button btnFinish;
         private System.Windows.Forms.Label lblHead;
+        private System.Windows.Forms.Label lblTime;
     }
 }
 
